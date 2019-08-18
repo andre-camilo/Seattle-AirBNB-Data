@@ -19,8 +19,8 @@ Based on the above I wanna answer this questions:
 
 ### File Description
 1. Seattle_AirBNB_Data.ipynb: notebook with all the data analysis process performed.
-2. seattle_Data.zip: compressed file which contains all the required files to perform the analysis.
+2. seattle.zip: compressed file which contains all the required files to perform the analysis.
 3. requirements.txt: all the dependencies required to perform the analysis.
 
 ### Results
-All the results are presented in the following post on "Medium": https://medium.com/@andres.c.serna/applying-crisp-dm-for-seattle-airbnb-data-b2a5b7f35ec3?sk=23d836b6c3fc479743317921ef4382df
+All the results are presented in the following post on "Medium": https://medium.com/@andres.c.serna/applying-crisp-dm-for-seattle-airbnb-data-b2a5b7f35ec3
